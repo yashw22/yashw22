@@ -5,6 +5,8 @@
   <h3>Hi there! <img alt="" src = "/readme_media/wave.gif" width = 30px> Im Yash</h3>
   <h4>I am a passionate software engineer</h4>
 
+<div>I am currently learning Docker, Kafka, Go.</div>
+
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yashw22&show_icons=true&theme=transparent&count_private=true" alt="Github Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashw22&theme=transparent&show_icons=true&layout=compact" alt="Most Used Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashw22" alt="yashw22" /></br>
