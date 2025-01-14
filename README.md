@@ -8,6 +8,7 @@
 <!-- <hr/> -->
 
 <ul>
+  <li> 📖 I recently graduated with a <b>MS in Computer Science</b> from <b><a href="https://www.linkedin.com/school/rutgersnb/">Rutgers, The State University of New Jersey - New Brunswick</a></b> </li>
   <li> 🔭 I’m working on <b>an enterprise-grade architecture on azure.</b> </li>
   <li> 🌱 I’m currently learning <b>Kotlin, Azure, and Kubernetes.</b> </li>
   <li> 🤔 I’m looking for help with <b>finding a software engineering job that fits my profile.</b> </li>
@@ -25,7 +26,7 @@
 </div>
 <hr/>
 
-<!-- <div>
+<div>
   <h3>All the things I have used over the years...</h3>
   <table style="background-color: white;">
     <tr> <td>Languages:</td>
@@ -45,15 +46,15 @@
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MS SQL Server"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
       </td>
     </tr>
     <tr> <td>Web:</td>
       <td>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
@@ -61,7 +62,13 @@
     </tr>
     <tr> <td>Testing and Automation:</td>
       <td>
-        Selenium, Appium, TestNG, Maven, Jenkins, Cucumber, Git
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman"/>
+        <span>Appium, TestNG</span>
       </td>
     </tr>
     <tr> <td>Visualization:</td>
@@ -71,11 +78,16 @@
       </td>
     </tr>
     <tr> <td>Misc:</td>
-      <td>AWS, Azure, Docker, Kafka, Postman</td>
+      <td>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka"/>
+      </td>
     </tr>
   </table>
 </div>
-<hr/> -->
+<hr/>
 
 <div align="center" style={{padding: "4px"}}>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=yashw22&show_icons=true&theme=transparent&count_private=true" alt="Github Stats" /> -->
