@@ -10,7 +10,7 @@
 <ul>
   <li> 📖 I recently graduated with a <b>MS in Computer Science</b> from <b><a href="https://www.linkedin.com/school/rutgersnb/">Rutgers, The State University of New Jersey - New Brunswick</a></b> </li>
   <li> 🔭 I’m working on <b>an enterprise-grade architecture on azure.</b> </li>
-  <li> 🌱 I’m currently learning <b>Kotlin, Azure, and Kubernetes.</b> </li>
+  <li> 🌱 I’m currently learning <b>Go, Azure & AWS, Kotlin, Typescript and Kubernetes.</b> </li>
   <li> 🤔 I’m looking for help with <b>finding a software engineering job that fits my profile.</b> </li>
   <li> 🖥️ Check out my website: <b><a href="https://yashw22.github.io/">yashw22.github.io</a></b> </li>
   <li> 📄 Check out my <b><a href="https://drive.google.com/file/d/1Vu5hhBX__ankyiL24D57fhVOQ73c0V-i/view?usp=drive_link">resume</a></b> </li>
