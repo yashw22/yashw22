@@ -8,7 +8,7 @@
 <!-- <hr/> -->
 
 <ul>
-  <li> 📖 I recently graduated with a <b>MS in Computer Science</b> from <b><a href="https://www.linkedin.com/school/rutgersnb/">Rutgers, The State University of New Jersey - New Brunswick</a></b> </li>
+  <li> 📖 I graduated with a <b>MS in Computer Science</b> from <b><a href="https://www.linkedin.com/school/rutgersnb/">Rutgers, The State University of New Jersey - New Brunswick</a></b> </li>
   <li> 🔭 I’m working on <b>an enterprise-grade architecture on azure.</b> </li>
   <li> 🌱 I’m currently learning <b>Go, Azure & AWS, Kotlin, Typescript and Kubernetes.</b> </li>
   <li> 🤔 I’m looking for help with <b>finding a software engineering job where i can utilize my skills.</b> </li>
