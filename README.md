@@ -1,7 +1,7 @@
 [github url]: https://github.com/yashw22/
 
 <div align="center">
-  <img src="/readme_media/github_banner.jpg">
+<!--   <img src="/readme_media/github_banner.jpg"> -->
   <h3>Hi there! <img alt="" src = "/readme_media/wave.gif" width = 20px> Im Yash</h3>
   <h4>I am a passionate software engineer</h4>
 </div>
@@ -112,10 +112,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yashw22&rank=-?&column=4" alt="Trophies" />
 </div>
 
+<!--
 <br/>
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=yashw22&style=flat&color=828bed" alt="Profile Views" />
 </div>
+-->
 
 <!--
 About me section
